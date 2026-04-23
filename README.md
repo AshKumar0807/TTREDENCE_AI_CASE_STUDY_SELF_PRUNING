@@ -66,8 +66,8 @@ Loss = CrossEntropy + λ * Σ sigmoid(G)
 | 0.0001             | 63.59%   | 92.08%   |
 | 0.0005             | 63.41%   | 99.08%   |
 
-👉 Even with **99% pruning**, accuracy remains ~63%
-👉 Shows massive parameter redundancy
+Even with **99% pruning**, accuracy remains ~63%
+Shows massive parameter redundancy
 
 ---
 
