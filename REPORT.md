@@ -50,7 +50,7 @@ L_total = L_CE + λ * Σ sigmoid(G)
 * Sparsity: **99.08%**
 * Accuracy: **63.41%**
 
-👉 Massive compression with minimal performance loss
+Massive compression with minimal performance loss
 
 ---
 
@@ -61,7 +61,7 @@ The gate distribution is **bimodal**:
 * Values near **1 → active weights**
 * Values near **0 → pruned weights**
 
-👉 This proves:
+This proves:
 
 * Model is **not shrinking weights**
 * It is **deciding ON/OFF**
